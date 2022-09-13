@@ -1,3 +1,1 @@
 # PythonPractice
-
-crazy giorl
